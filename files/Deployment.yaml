@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: test
-          image: garadsnehal98/first-ci-cd:12883901046
+          image: garadsnehal98/first-ci-cd:12886515927
           ports:
             - containerPort: 80
       imagePullSecrets:
